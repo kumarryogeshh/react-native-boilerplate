@@ -1,0 +1,15 @@
+export const purple = '#292477'
+export const gray = '#757575'
+export const white = '#fff'
+export const red = '#b71845'
+export const orange = '#f26f28'
+export const blue = '#4e4cb8'
+export const lightPurp = '#7c53c3'
+export const pink = '#b93fb3'
+export const chestnut = '#823935'
+export const mint = '#89beb2'
+export const mud = '#c9ba83'
+export const darkOrange = '#de9c53'
+export const matcha = '#a0bf7c'
+
+export const host = "http://192.168.1.42:8001"
